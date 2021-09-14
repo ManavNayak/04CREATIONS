@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.swal-modal {
+  width: 400px;
+  height: 275px;
+  border-radius: 20px;
+  justify-content: center;
+}
+
+.swal-text {
+  font-size: 21px;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.swal-title {
+  font-size: 45px;
+}
